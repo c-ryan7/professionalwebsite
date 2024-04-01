@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs/
+
+website:
+  navbar:
+    left:
+      - text: "Home"
+        file: index.qmd
+      - text: "Project Background"
+        menu:
+          - pages_of_site/proj_bckgd/introduction.qmd
+          - pages_of_site/proj_bckgd/methods.qmd
+      - text: "Analysis"
+        menu:
+          - pages_of_site/analysis/data_cleaning/sample_data_cleaning_page.qmd
+          - pages_of_site/analysis/data_analysis/sample_analysis_page.qmd
+      - text: "Project Outcomes"
+        menu:
+          - file: pages_of_site/proj_outcomes/results/results.qmd
+          - file: pages_of_site/proj_outcomes/discussion/discussion.qmd
+      - file: about.qmd
+
+format:
+  html:
+    theme: minty
+    css: styles.css
+    toc: true
+
+editor: visual
+

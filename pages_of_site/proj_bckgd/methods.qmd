@@ -1,0 +1,7 @@
+---
+title: "Methods"
+---
+
+Will write out descriptions of the datasets here
+
+Methods section + summarize my qq_notes.md for metadata stuff
