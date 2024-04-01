@@ -30,7 +30,7 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Connie Ryan’s Professional Website",
+    "title": "Connie Ryan",
     "section": "",
     "text": "Welcome to my… website?"
   },
@@ -54,5 +54,89 @@
     "title": "Sample Results Page",
     "section": "",
     "text": "fill me!"
+  },
+  {
+    "objectID": "pages_of_site/qq_data_project/proj_outcomes/discussion/discussion.html",
+    "href": "pages_of_site/qq_data_project/proj_outcomes/discussion/discussion.html",
+    "title": "Sample Discussion Page",
+    "section": "",
+    "text": "fill me!"
+  },
+  {
+    "objectID": "pages_of_site/qq_data_project/proj_bckgd/introduction.html",
+    "href": "pages_of_site/qq_data_project/proj_bckgd/introduction.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "intro, background of thesis",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "pages_of_site/qq_data_project/analysis/data_cleaning/sample_data_cleaning_page.html",
+    "href": "pages_of_site/qq_data_project/analysis/data_cleaning/sample_data_cleaning_page.html",
+    "title": "Put Data Cleaning Here Once Finish",
+    "section": "",
+    "text": "will likely need multiple pages in this folder…!",
+    "crumbs": [
+      "QQ Data Project",
+      "Put Data Cleaning Here Once Finish"
+    ]
+  },
+  {
+    "objectID": "pages_of_site/qq_data_project/analysis/data_analysis/sample_analysis_page.html",
+    "href": "pages_of_site/qq_data_project/analysis/data_analysis/sample_analysis_page.html",
+    "title": "Filler Analysis Page",
+    "section": "",
+    "text": "may need multiple analysis pages…",
+    "crumbs": [
+      "QQ Data Project",
+      "Filler Analysis Page"
+    ]
+  },
+  {
+    "objectID": "pages_of_site/qq_data_project/proj_bckgd/methods.html",
+    "href": "pages_of_site/qq_data_project/proj_bckgd/methods.html",
+    "title": "Methods",
+    "section": "",
+    "text": "Will write out descriptions of the datasets here\nMethods section + summarize my qq_notes.md for metadata stuff",
+    "crumbs": [
+      "QQ Data Project",
+      "Methods"
+    ]
+  },
+  {
+    "objectID": "pages_of_site/qq_data_project/proj_outcomes/results/results.html",
+    "href": "pages_of_site/qq_data_project/proj_outcomes/results/results.html",
+    "title": "Sample Results Page",
+    "section": "",
+    "text": "fill me!",
+    "crumbs": [
+      "Sample Results Page"
+    ]
+  },
+  {
+    "objectID": "pages_of_site/research_projects_overview.html",
+    "href": "pages_of_site/research_projects_overview.html",
+    "title": "Research Projects",
+    "section": "",
+    "text": "QQ data proj applied proj etc"
+  },
+  {
+    "objectID": "pages_of_site/qq_data_project/welcome.html",
+    "href": "pages_of_site/qq_data_project/welcome.html",
+    "title": "QQ Data Proj Overview",
+    "section": "",
+    "text": "ugh"
+  },
+  {
+    "objectID": "pages_of_site/applied_project/welcome.html",
+    "href": "pages_of_site/applied_project/welcome.html",
+    "title": "Welcome - Applied Project",
+    "section": "",
+    "text": "idk some other stuff",
+    "crumbs": [
+      "Welcome - Applied Project"
+    ]
   }
 ]

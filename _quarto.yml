@@ -7,20 +7,25 @@ website:
     left:
       - text: "Home"
         file: index.qmd
-      - text: "Project Background"
-        menu:
-          - pages_of_site/proj_bckgd/introduction.qmd
-          - pages_of_site/proj_bckgd/methods.qmd
-      - text: "Analysis"
-        menu:
-          - pages_of_site/analysis/data_cleaning/sample_data_cleaning_page.qmd
-          - pages_of_site/analysis/data_analysis/sample_analysis_page.qmd
-      - text: "Project Outcomes"
-        menu:
-          - file: pages_of_site/proj_outcomes/results/results.qmd
-          - file: pages_of_site/proj_outcomes/discussion/discussion.qmd
+      - sidebar:qqdataproj
+      - sidebar:appliedproj
       - file: about.qmd
-
+  sidebar:
+    - id: qqdataproj
+      title: "QQ Data Project"
+      style: "docked"
+      background: light
+      contents:
+        - pages_of_site/qq_data_project/proj_bckgd/introduction.qmd
+        - pages_of_site/qq_data_project/proj_bckgd/methods.qmd
+        - pages_of_site/qq_data_project/analysis/data_cleaning/sample_data_cleaning_page.qmd
+        - pages_of_site/qq_data_project/analysis/data_analysis/sample_analysis_page.qmd
+        - pages_of_site/qq_data_project/proj_outcomes/results/results.qmd
+        - pages_of_site/qq_data_project/proj_outcomes/discussion/discussion.qmd
+    - id: appliedproj
+      title: "Applied Project"
+      contents:
+        - pages_of_site/applied_project/welcome.qmd
 format:
   html:
     theme: minty
