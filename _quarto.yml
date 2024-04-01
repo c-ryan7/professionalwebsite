@@ -9,6 +9,7 @@ website:
         file: index.qmd
       - sidebar:qqdataproj
       - sidebar:appliedproj
+      - sidebar:undergradthesis
       - file: about.qmd
   sidebar:
     - id: qqdataproj
@@ -26,6 +27,10 @@ website:
       title: "Applied Project"
       contents:
         - pages_of_site/applied_project/welcome.qmd
+    - id: undergradthesis
+      title: "FFS Spatial"
+      contents:
+        - pages_of_site/undergradthesis/welcome.qmd
 format:
   html:
     theme: minty
