@@ -3,34 +3,20 @@ project:
   output-dir: docs/
 
 website:
+  bread-crumbs: false
   navbar:
     left:
       - text: "Home"
         file: index.qmd
-      - sidebar:qqdataproj
-      - sidebar:appliedproj
-      - sidebar:undergradthesis
+      - text: "Research"
+        menu:
+          - text: "Historical SDI & Contemporary Managment in CA"
+            file: pages_of_site/applied_project.qmd
+          - text: "Synthesis of Robust Historical SDI in CA & S. OR"
+            file: pages_of_site/qq_data_project.qmd
+          - text: "Fuel Treatment Spatial Patterns"
+            file: pages_of_site/fuel_tx_spatial.qmd
       - file: about.qmd
-  sidebar:
-    - id: qqdataproj
-      title: "QQ Data Project"
-      style: "docked"
-      background: light
-      contents:
-        - pages_of_site/qq_data_project/proj_bckgd/introduction.qmd
-        - pages_of_site/qq_data_project/proj_bckgd/methods.qmd
-        - pages_of_site/qq_data_project/analysis/data_cleaning/sample_data_cleaning_page.qmd
-        - pages_of_site/qq_data_project/analysis/data_analysis/sample_analysis_page.qmd
-        - pages_of_site/qq_data_project/proj_outcomes/results/results.qmd
-        - pages_of_site/qq_data_project/proj_outcomes/discussion/discussion.qmd
-    - id: appliedproj
-      title: "Applied Project"
-      contents:
-        - pages_of_site/applied_project/welcome.qmd
-    - id: undergradthesis
-      title: "FFS Spatial"
-      contents:
-        - pages_of_site/undergradthesis/welcome.qmd
 format:
   html:
     theme: minty

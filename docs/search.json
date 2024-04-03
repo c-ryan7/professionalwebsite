@@ -144,9 +144,27 @@
     "href": "pages_of_site/undergradthesis/welcome.html",
     "title": "FFS Spatial",
     "section": "",
-    "text": "literally idk",
-    "crumbs": [
-      "FFS Spatial"
-    ]
+    "text": "literally idk"
+  },
+  {
+    "objectID": "pages_of_site/applied_project.html",
+    "href": "pages_of_site/applied_project.html",
+    "title": "Historical Stocking & CA Forest Management",
+    "section": "",
+    "text": "idk some other stuff"
+  },
+  {
+    "objectID": "pages_of_site/qq_data_project.html",
+    "href": "pages_of_site/qq_data_project.html",
+    "title": "Robust Historical Forest Inventories Describe Patterns of Stand Density in the Sierra Nevada and Southern Cascades",
+    "section": "",
+    "text": "idk some other stuff"
+  },
+  {
+    "objectID": "pages_of_site/fuel_tx_spatial.html",
+    "href": "pages_of_site/fuel_tx_spatial.html",
+    "title": "Tree Spatial Patterns in Repeated Alternative Mixed-Conifer Forest Fuel Reduction Treatments",
+    "section": "",
+    "text": "idk some other stuff"
   }
 ]

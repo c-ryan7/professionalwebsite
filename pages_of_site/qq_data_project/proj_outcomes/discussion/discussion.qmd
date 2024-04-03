@@ -1,5 +1,0 @@
----
-title: "Sample Discussion Page"
----
-
-fill me!

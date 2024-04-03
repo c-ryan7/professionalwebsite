@@ -1,5 +1,0 @@
----
-title: "Welcome - Applied Project"
----
-
-idk some other stuff
