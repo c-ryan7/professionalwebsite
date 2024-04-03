@@ -3,6 +3,8 @@ project:
   output-dir: docs/
 
 website:
+  title: "Connie Ryan"
+  search: false
   bread-crumbs: false
   navbar:
     left:
